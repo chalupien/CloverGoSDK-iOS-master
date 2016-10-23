@@ -1,0 +1,6 @@
+framework module CloverGo {
+  umbrella header "CloverGo.h"
+
+  export *
+  module * { export * }
+}
